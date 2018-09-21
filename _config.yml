@@ -4,7 +4,7 @@ description:       여러분들의 흥미와 관심사를 빅데이터로 수집
 author:            Start Bootstrap
 baseurl:           ""
 url:               "https://momentum1993.github.io"
-disqus_url:        "http://disqus.com/by/momentum1993"
+disqus_url:        http://disqus.com/by/momentum1993
 disqus_shortname:         momentum1993
 
 
