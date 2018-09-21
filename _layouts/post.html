@@ -47,6 +47,7 @@ layout: default
 
     </div>
   </div>
+  {% if site.disqus_shortname %}{% include disqus_comments.html %}{% endif %}
 </div>
   
-{% if site.disqus_shortname %}{% include disqus_comments.html %}{% endif %}
+
