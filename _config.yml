@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
+title:             My Blog
+email:             93stw@naver.com
+description:       여러분들의 흥미와 관심사를 빅데이터로 수집하여 높은 조회수를 기록할 만한 제목을 도출하였습니다.
 author:            Start Bootstrap
 baseurl:           ""
 url:               "https://momentum1993.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  
+github_username:   momentum1993
+facebook_username: 
 
 # Build settings
 markdown:          kramdown
