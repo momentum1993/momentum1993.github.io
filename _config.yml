@@ -19,14 +19,3 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   
-
-gems:
-  - jekyll-paginate-v2
-  
-pagination:
-  enabled: true
-  per_page: 2
-  limit: 0 
-  sort_field: "date"
-  sort_reverse: true
-  
