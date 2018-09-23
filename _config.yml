@@ -19,3 +19,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   
+# add
+category_dir: category/
+tag_dir: tag/
