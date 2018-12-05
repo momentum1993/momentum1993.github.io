@@ -8,6 +8,7 @@ disqus_shortname: momentum1993
 
 # Font
 google_fonts:        "Nanum+Gothic:400,700"
+font-family: 'Nanum Gothic', sans-serif;
 
 # Social Profiles
 twitter_username:  
