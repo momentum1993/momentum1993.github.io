@@ -1,7 +1,9 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
 
-p, form {
-  font-family: 'Nanum Gothic', serif;
-  font-size:20px;
-}
+$base-font-size: 14px !default;
+$bold-font-weight: bold !default;
+$font-family: 'Nanum Gothic', 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$line-height: 1.5 !default;
+$heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default; $heading-font-weight: 900 !default;
+$heading-line-height: 1.25 !default;
