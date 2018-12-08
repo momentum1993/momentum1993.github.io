@@ -23,3 +23,8 @@ plugins:
 # add
 category_dir: category/
 tag_dir: tag/
+
+#font
+font_heading:        "'Roboto Slab', 'Nanum Gothic', Helvetica, Arial, sans-serif"
+font:                "'Noto Sans', 'Nanum Gothic', Helvetica, Arial, sans-serif"
+google_fonts:        Roboto+Slab:700|Noto+Sans:400,400i,700,700i
